@@ -34,3 +34,28 @@ WebRTC Call: https://meet.jit.si/w3ctag
 *Please note*: this meeting is open to TAG members and invited guests. If you would like to participate, please email the chairs.
 
 Raw minutes: https://pad.w3ctag.org/p/2017-04-04-minutes.md
+
+### EME and copyright
+EME is a legal instrument, in the guise of a technological standard, for content to fall under the purview of the Digital Millennium Copyright Act (or similar draconian laws depending on jurisdiction).
+
+Citing from, [The Public Domain](http://www.thepublicdomain.org/download/):
+
+My emphasis
+
+> The Digital Millennium Copyright Act gives content providers a whole array of legally protected digital fences to enclose
+their work. **In some cases it effectively removes the privilege of fair use**.
+Each day brings some new Internet horror story about the excesses of intellectual
+property.
+
+To be clear, EME destroys the ability for academics, and journalists, to use media for fair use, because to get at the material, one must circumvent EME (whose penalties are severe). It's also abused by corporations to stifle innovation: remixing, satire, or the reporting of news that would otherwise be allowed to show the content etc. all become illegal ([The Public Domain](http://www.thepublicdomain.org/download/)).
+
+Also outlined in the Electronic Frontiers Foundation, “[Unintended Consequences](https://www.eff.org/files/2014/09/16/unintendedconsequences2014.pdf)”
+
+* The DMCA Chills Free Expression and Scientific Research.
+* The DMCA Jeopardizes Fair Use.
+* The DMCA Impedes Competition and Innovation.
+* The DMCA Interferes with Computer Intrusion Laws.
+
+> "the anti-circumvention provisions have been used to stifle a wide array of legitimate activities. As a result, the DMCA has become a serious threat to several important public policy priorities"
+
+For a list of legal texts and published articles discussing the "DMCA and DRM" see page 274 of [The Public Domain](http://www.thepublicdomain.org/download/). 
